@@ -1,0 +1,365 @@
+.frame[data-v-98f91e9a] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: start;
+    -webkit-align-items: flex-start;
+    align-items: flex-start;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+}
+
+.teachergrow[data-v-98f91e9a] {
+    height: 4.47917rem;
+    margin: 0 0.10417rem;
+    margin-top: 0.14583rem;
+    position: relative;
+}
+
+.teachergrow .unActiveNoData[data-v-98f91e9a] {
+    font-size: 0.10417rem;
+    color: #7e88ab;
+    margin: 0.3125rem auto;
+    width: 90%;
+}
+
+.teachergrow .bottomDesc[data-v-98f91e9a] {
+    position: absolute;
+    bottom: 0.05208rem;
+    color: #7e88ab;
+    font-size: 0.10417rem;
+    text-align: center;
+    left: 0;
+    right: 0;
+}
+
+.teachergrow_left[data-v-98f91e9a] {
+    height: 100%;
+    width: 41.4%;
+    z-index: 5;
+}
+
+.teachergrow_left .leftStatContent[data-v-98f91e9a] {
+    height: 4.01042rem;
+    width: 100%;
+    background-color: #42486c;
+    position: relative;
+}
+
+.teachergrow_left .leftStatContent .headerStat[data-v-98f91e9a] {
+    height: 0.52083rem;
+    border-bottom: 0.00521rem solid #58618a;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    text-align: center;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+    padding-top: 0.10417rem;
+    position: relative;
+    z-index: 2;
+}
+
+.teachergrow_left .leftStatContent .headerStat .statdata[data-v-98f91e9a] {
+    font-size: 0.18229rem;
+}
+
+.teachergrow_left .leftStatContent .headerStat .statdatadesc[data-v-98f91e9a] {
+    font-size: 0.10417rem;
+    color: #dcdde1;
+    margin-top: 0.02604rem;
+}
+
+.teachergrow_left .leftStatContent .headerStat .statdatadesc img[data-v-98f91e9a] {
+    margin-bottom: -0.01563rem;
+    margin-right: 0.04167rem;
+    width: 0.11979rem;
+}
+
+.teachergrow_left .leftStatContent .centerStat[data-v-98f91e9a] {
+    position: relative;
+    z-index: 2;
+    top: 0.0625rem;
+}
+
+.teachergrow_left .leftStatContent .centerStat .barTitle[data-v-98f91e9a] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    margin: 0.05208rem;
+}
+
+.teachergrow_left .leftStatContent .centerStat .barTitle .left[data-v-98f91e9a] {
+    font-size: 0.13021rem;
+    color: #f7b279;
+}
+
+.teachergrow_left .leftStatContent .centerStat .barTitle .left img[data-v-98f91e9a] {
+    width: 0.13021rem;
+    margin-bottom: -0.02604rem;
+}
+
+.teachergrow_left .leftStatContent .centerStat .barTitle .right[data-v-98f91e9a] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    color: #dcdde1;
+    font-size: 0.10417rem;
+    width: 1.35417rem;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    margin-right: 0.10417rem;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+.teachergrow_left .leftStatContent .centerStat .barTitle .right img[data-v-98f91e9a] {
+    margin-right: 0.05208rem;
+    width: 0.20313rem;
+}
+
+.teachergrow_left .leftStatContent .centerStat .barTitle .right[data-v-98f91e9a]::before {
+    content: "";
+    width: 0.07813rem;
+    height: 0.07813rem;
+    border-radius: 50%;
+    background-color: #f7b279;
+    margin-right: -0.10417rem;
+}
+
+.teachergrow_left .leftStatContent .centerStat .chartHeight[data-v-98f91e9a] {
+    height: 1.40625rem;
+}
+
+.teachergrow_left .leftStatContent .bottomStat[data-v-98f91e9a] {
+    position: relative;
+    z-index: 2;
+}
+
+.teachergrow_left .leftStatContent .bottomStat .activityStatDesc[data-v-98f91e9a] {
+    font-size: 0.10417rem;
+    color: #7e88ab;
+    text-align: center;
+}
+
+.teachergrow_left .leftStatContent .bottomStat .activityTopDesc[data-v-98f91e9a] {
+    font-size: 0.10417rem;
+    color: #7e88ab;
+    text-align: center;
+    width: 50%;
+    float: right;
+    margin-top: 0.05208rem;
+    margin-right: 0.07813rem;
+}
+
+.teachergrow_left .leftStatContent .bottomStat .activityTopStat[data-v-98f91e9a] {
+    height: 1.30208rem;
+    margin-top: 0.05208rem;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    padding: 0 0.20833rem;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+}
+
+.teachergrow_left .leftStatContent .bottomStat .activityTopStat .ascTop .title[data-v-98f91e9a] {
+    color: #fff;
+    font-size: 0.11979rem;
+    border-bottom: 0.00521rem solid #485b85;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 0.02604rem;
+}
+
+.teachergrow_left .leftStatContent .bottomStat .activityTopStat .ascTop .title img[data-v-98f91e9a] {
+    margin-bottom: -0.02604rem;
+}
+
+.teachergrow_left .leftStatContent .bottomStat .activityTopStat .ascTop .school[data-v-98f91e9a] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    font-size: 0.09375rem;
+    padding: 0 0.10417rem;
+    margin: 0.08333rem 0 0 0;
+}
+
+.teachergrow_left .leftStatContent .bottomStat .activityTopStat .ascTop .school div[data-v-98f91e9a]:first-of-type {
+    color: #fff;
+    display: block;
+}
+
+.teachergrow_left .leftStatContent .bottomStat .activityTopStat .ascTop .school div[data-v-98f91e9a]:last-of-type {
+    display: block;
+    color: #25f1f0;
+}
+
+.teachergrow_left .leftStatContent .bottomStat .activityTopStat .descTop[data-v-98f91e9a] {
+    width: 42%;
+    border-radius: 0.10417rem;
+    background-image: -webkit-linear-gradient(bottom right, #3d3f65, #484d73);
+    background-image: linear-gradient(to top left, #3d3f65, #484d73);
+    padding: 0 0.10417rem;
+    padding-top: 0.05208rem;
+}
+
+.teachergrow_left .leftStatContent .bottomStat .activityTopStat .descTop[data-v-98f91e9a] .el-carousel__button {
+    width: 0.05208rem;
+    height: 0.05208rem;
+    border-radius: 50%;
+}
+
+.teachergrow_left .leftStatContent .bottomStat .activityTopStat .descTop .title[data-v-98f91e9a] {
+    color: #fff;
+    font-size: 0.11979rem;
+    text-align: center;
+    padding-bottom: 0.02604rem;
+}
+
+.teachergrow_left .leftStatContent .bottomStat .activityTopStat .descTop .title img[data-v-98f91e9a] {
+    margin-bottom: -0.02604rem;
+    width: 0.13021rem;
+    margin-right: 0.05208rem;
+}
+
+.teachergrow_left .leftStatContent .bottomStat .activityTopStat .descTop .school[data-v-98f91e9a] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    font-size: 0.09375rem;
+    padding: 0 0.10417rem;
+    margin: 0.06771rem 0 0 0;
+}
+
+.teachergrow_left .leftStatContent .bottomStat .activityTopStat .descTop .school div[data-v-98f91e9a]:first-of-type {
+    color: #fff;
+    display: block;
+}
+
+.teachergrow_left .leftStatContent .bottomStat .activityTopStat .descTop .school div[data-v-98f91e9a]:last-of-type {
+    display: block;
+    color: #f87793;
+}
+
+.teachergrow_left .leftStatContent .bottomStat .activityTopStat .ranking[data-v-98f91e9a] {
+    width: 47%;
+    color: #fff;
+    background: -webkit-linear-gradient(220deg, #3d3f65 0%, #484d73 100%);
+    background: linear-gradient(-130deg, #3d3f65 0%, #484d73 100%);
+    border-radius: 0.07292rem;
+    padding: 0.02083rem;
+    box-shadow: 0 0 0.08333rem rgba(48, 54, 82, 0.6);
+    height: 1.30208rem;
+}
+
+.teachergrow_left .leftStatContent .bottomStat .activityTopStat .border[data-v-98f91e9a] {
+    border: 0.00521rem solid #a77a65;
+    border-radius: 0.07292rem;
+    height: 1.30208rem;
+    overflow: hidden;
+}
+
+.teachergrow_left .leftStatContent .bottomStat .activityTopStat ul li[data-v-98f91e9a] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 0 0.07292rem;
+    font-size: 0.08333rem;
+}
+
+.teachergrow_left .leftStatContent .bottomStat .activityTopStat ul li p[data-v-98f91e9a] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+.teachergrow_left .leftStatContent .bottomStat .activityTopStat ul li img[data-v-98f91e9a] {
+    margin-right: 0.03125rem;
+}
+
+.teachergrow_left .leftStatContent .bottomStat .activityTopStat .title[data-v-98f91e9a] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    border-bottom: 0.00521rem solid #a77a65;
+    padding: 0.04167rem 0;
+}
+
+.teachergrow_left .leftStatContent .bottomStat .activityTopStat .title span[data-v-98f91e9a] {
+    font-weight: bold;
+}
+
+.teachergrow_left .leftStatContent .bottomStat .activityTopStat .title img[data-v-98f91e9a] {
+    margin-right: 0.02083rem;
+    width: 0.14063rem;
+}
+
+.teachergrow_right[data-v-98f91e9a] {
+    height: 100%;
+    width: 57%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+}
+
+.teachergrow_right_distributeStat[data-v-98f91e9a] {
+    height: 2.11458rem;
+    width: 31.2%;
+    position: relative;
+    z-index: 5;
+    margin-bottom: 0.10417rem;
+    margin-right: 2.5%;
+}
+
+.teachergrow_right_distributeStat[data-v-98f91e9a]:nth-of-type(3n) {
+    margin-right: 0;
+}
+
+.teachergrow_right .statContent[data-v-98f91e9a],
+.teachergrow_right .statContent_and_shadow[data-v-98f91e9a] {
+    width: 100%;
+    height: calc(100% - 0.3125rem);
+    margin-top: 0.02604rem;
+    background-color: #42486c;
+    position: relative;
+}
+
+.page-tips[data-v-98f91e9a] {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}

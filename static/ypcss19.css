@@ -1,0 +1,17 @@
+.stugrowanddev .el-radio-button__inner {
+    color: #fff;
+    background-color: #2f3652;
+    border: none !important;
+    font-size: 0.10417rem;
+    width: 0.52083rem;
+}
+
+.stugrowanddev .rightScreen .el-carousel__container,
+.stugrowanddev .rightScreen .el-carousel--horizontal {
+    height: 1.30208rem;
+}
+
+.stugrowanddev .rightForm .el-carousel__container,
+.stugrowanddev .rightForm .el-carousel--horizontal {
+    height: 1.09375rem;
+            }

@@ -1,0 +1,92 @@
+.tabs[data-v-c58ee6e4] {
+    position: relative;
+    z-index: 2;
+}
+
+.tabs .seizeSeat[data-v-c58ee6e4] {
+    width: 0.46875rem;
+    height: 0.46875rem;
+}
+
+.tabs .selSchoolType[data-v-c58ee6e4] {
+    background-color: #24da83;
+    width: 0.46875rem;
+    height: 0.46875rem;
+    font-size: 0.11979rem;
+    border-radius: 50%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    color: #fff;
+    position: relative;
+}
+
+.tabs .selSchoolType[data-v-c58ee6e4]::after {
+    content: "";
+    width: 0;
+    height: 0;
+    border: 0.05208rem solid #fff;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    position: absolute;
+    bottom: 5%;
+    left: 0.18229rem;
+}
+
+.tabs .hopas[data-v-c58ee6e4] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+}
+
+.tabs .tabs-itme[data-v-c58ee6e4] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+    width: 100%;
+    height: 0.46875rem;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.tabs .tabs-itme .tabName[data-v-c58ee6e4] {
+    min-width: 1.19792rem;
+    height: 0.28646rem;
+    background-color: #454c72;
+    border: 0.02604rem solid #898dad;
+    border-radius: 0.26042rem;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    font-size: 0.14583rem;
+    color: #fff;
+}
+
+.tabs .tabs-itme .disabled_tabName[data-v-c58ee6e4] {
+    min-width: 1.35417rem;
+    height: 0.28646rem;
+}
+
+.tabs .tabs-itme .isActivity[data-v-c58ee6e4] {
+    color: #ffaa5c;
+    border-color: #ffaa5c;
+    position: relative;
+}

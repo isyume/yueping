@@ -1,0 +1,480 @@
+.stugrowanddev[data-v-123fef85] {
+    height: 4.16667rem;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    padding: 0.14583rem 0.10417rem 0 0.10417rem;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+}
+
+.stugrowanddev .emptyData_computer[data-v-123fef85] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    height: 100%;
+    font-size: 0.10417rem;
+    color: #fff;
+}
+
+.stugrowanddev .emptyData_computer img[data-v-123fef85] {
+    width: 0.67708rem;
+    margin-bottom: 0.15625rem;
+}
+
+.stugrowanddev .left[data-v-123fef85] {
+    width: 55%;
+}
+
+.stugrowanddev .left .leftSmallCard[data-v-123fef85] {
+    height: 1.61458rem;
+    background-color: #42486c;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    padding: 0.10417rem 0.10417rem;
+    -webkit-box-align: end;
+    -webkit-align-items: flex-end;
+    align-items: flex-end;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+}
+
+.stugrowanddev .left .leftSmallCard[data-v-123fef85]:nth-of-type(2) {
+    margin-bottom: 0.20833rem;
+}
+
+.stugrowanddev .left .leftSmallCard .leftStat[data-v-123fef85] {
+    width: 30%;
+    height: 100%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    position: relative;
+    z-index: 2;
+}
+
+.stugrowanddev .left .leftSmallCard .leftStat .content[data-v-123fef85] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    font-size: 0.11458rem;
+    color: #fff;
+    height: 0.46875rem;
+    width: 100%;
+    border-radius: 0.07813rem;
+    padding: 0.13542rem 0;
+}
+
+.stugrowanddev .left .leftSmallCard .leftStat .content .dataStat[data-v-123fef85] {
+    padding-left: 0.07292rem;
+    height: 80%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    margin-top: 0.05208rem;
+    position: relative;
+    z-index: 3;
+}
+
+.stugrowanddev .left .leftSmallCard .leftStat .content img[data-v-123fef85] {
+    width: 0.22917rem;
+    height: 0.22917rem;
+    margin-left: 0.08333rem;
+    display: block;
+}
+
+.stugrowanddev .left .leftSmallCard .leftStat .content[data-v-123fef85]:first-of-type {
+    margin-bottom: 0.10417rem;
+}
+
+.stugrowanddev .left .leftSmallCard .centerChart[data-v-123fef85] {
+    width: 34%;
+    height: 100%;
+    position: relative;
+    z-index: 2;
+}
+
+.stugrowanddev .left .leftSmallCard .rightScreen[data-v-123fef85] {
+    width: 33%;
+    height: 85%;
+    position: relative;
+    border-radius: 0.07813rem;
+    z-index: 5;
+}
+
+.stugrowanddev .left .leftSmallCard .rightScreen .blockTitle[data-v-123fef85] {
+    position: absolute;
+    color: #fff;
+    font-size: 0.10417rem;
+    top: -0.20833rem;
+}
+
+.stugrowanddev .left .leftSmallCard .rightScreen .groupPerson[data-v-123fef85] {
+    color: #fff;
+    font-size: 0.10417rem;
+    margin-top: 0.36458rem;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+}
+
+.stugrowanddev .left .leftSmallCard .rightScreen .groupPerson span[data-v-123fef85]:first-of-type {
+    margin-left: 0.10417rem;
+}
+
+.stugrowanddev .left .leftSmallCard .rightScreen .groupPerson span[data-v-123fef85]:last-of-type {
+    margin-right: 0.10417rem;
+}
+
+.stugrowanddev .left .leftSmallCard .rightScreen .groupPerson .school_name[data-v-123fef85] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    position: relative;
+}
+
+.stugrowanddev .left .leftSmallCard .rightScreen .groupPerson .school_name[data-v-123fef85]::after {
+    content: "";
+    width: 0.00521rem;
+    height: 0.08333rem;
+    background: #fff;
+    opacity: 0.2;
+    display: block;
+    position: absolute;
+    right: -0.10417rem;
+}
+
+.stugrowanddev .left .leftSmallCard .rightScreen .evalItem[data-v-123fef85] {
+    color: #ffc565;
+    font-size: 0.10417rem;
+    text-align: center;
+    margin: 0.10417rem 0;
+}
+
+.stugrowanddev .left .leftSmallCard .rightScreen .evalItem img[data-v-123fef85] {
+    width: 0.15625rem;
+}
+
+.stugrowanddev .left .leftSmallCard .rightScreen .teacherName[data-v-123fef85] {
+    color: #fff;
+    font-size: 0.10417rem;
+    text-align: right;
+    margin-right: 0.10417rem;
+}
+
+.stugrowanddev .left .leftSmallCard .rightScreen .headerPic[data-v-123fef85] {
+    position: absolute;
+    border-radius: 50%;
+    width: 0.41667rem;
+    height: 0.41667rem;
+    top: -0.21875rem;
+    left: calc(50% - 0.20833rem);
+    z-index: 2;
+    overflow: hidden;
+}
+
+.stugrowanddev .left .leftSmallCard .rightScreen .headerPic img[data-v-123fef85] {
+    width: 0.41667rem;
+}
+
+.stugrowanddev .left .leftSmallCard .rightScreen .headPicBorder[data-v-123fef85] {
+    position: absolute;
+    width: 0.52083rem;
+    height: 0.52083rem;
+    border-radius: 1.04167rem;
+    overflow: hidden;
+    top: -0.26042rem;
+    left: calc(50% - 0.26042rem);
+    z-index: 5;
+}
+
+.stugrowanddev .left .leftSmallCard .rightScreen .headPicBorder img[data-v-123fef85] {
+    width: 100%;
+    height: 100%;
+}
+
+.stugrowanddev .left .leftSmallCard .rightForm[data-v-123fef85] {
+    width: 33.33%;
+    height: 100%;
+    position: relative;
+    z-index: 2;
+}
+
+.stugrowanddev .left .leftSmallCard .rightForm .el-carousel__container[data-v-123fef85],
+.stugrowanddev .left .leftSmallCard .rightForm .el-carousel--horizontal[data-v-123fef85] {
+    height: 1.09375rem;
+}
+
+.stugrowanddev .left .leftSmallCard .rightForm .icon[data-v-123fef85] {
+    width: 0.13542rem;
+}
+
+.stugrowanddev .left .leftSmallCard .rightForm .schoolType[data-v-123fef85] {
+    text-align: right;
+    color: #8a8dae;
+    font-size: 0.10417rem;
+    height: 0.15625rem;
+    margin-bottom: 0.04167rem;
+}
+
+.stugrowanddev .left .leftSmallCard .rightForm .schoolType span[data-v-123fef85] {
+    margin-left: 0.10417rem;
+}
+
+.stugrowanddev .left .leftSmallCard .rightForm .form[data-v-123fef85] {
+    border-radius: 0.07813rem;
+    border: 0.00521rem solid #4a5d87;
+    margin-top: 0.05208rem;
+}
+
+.stugrowanddev .left .leftSmallCard .rightForm .form .formTitle[data-v-123fef85] {
+    border-bottom: 0.00521rem solid #4a5d87;
+    color: #fff;
+    font-size: 0.10417rem;
+    text-align: center;
+    padding: 0.05208rem 0;
+}
+
+.stugrowanddev .left .leftSmallCard .rightForm .form .formTitle img[data-v-123fef85] {
+    margin-bottom: -0.02604rem;
+}
+
+.stugrowanddev .left .leftSmallCard .rightForm .form .school[data-v-123fef85] {
+    font-size: 0.10417rem;
+    color: #fff;
+}
+
+.stugrowanddev .left .leftSmallCard .rightForm .form .school .schoolBlock[data-v-123fef85] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    margin: 0.06771rem 0.10417rem;
+}
+
+.stugrowanddev .left .leftSmallCard .rightForm .form .school .schoolBlock img[data-v-123fef85] {
+    margin-bottom: -0.02604rem;
+    margin-right: 0.05208rem;
+    width: 0.13021rem;
+}
+
+.stugrowanddev .left .leftSmallCard .rightForm .form .school .schoolBlock .rank[data-v-123fef85] {
+    width: 0.13021rem;
+    height: 0.13021rem;
+    margin-right: 0.05208rem;
+    display: block;
+    text-align: center;
+    line-height: 0.13021rem;
+}
+
+.stugrowanddev .left .leftSmallCard .ranking[data-v-123fef85] {
+    width: 100%;
+    color: #fff;
+    background: -webkit-linear-gradient(220deg, #3d3f65 0%, #484d73 100%);
+    background: linear-gradient(-130deg, #3d3f65 0%, #484d73 100%);
+    border-radius: 0.07292rem;
+    padding: 0.02083rem;
+    box-shadow: 0 0 0.08333rem rgba(48, 54, 82, 0.6);
+}
+
+.stugrowanddev .left .leftSmallCard .border[data-v-123fef85] {
+    border: 0.01042rem solid #957567;
+    border-radius: 0.07292rem;
+    height: 1.32292rem;
+}
+
+.stugrowanddev .left .leftSmallCard ul li[data-v-123fef85] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 0 0.07292rem;
+    font-size: 0.08333rem;
+}
+
+.stugrowanddev .left .leftSmallCard ul li p[data-v-123fef85] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+.stugrowanddev .left .leftSmallCard ul li img[data-v-123fef85] {
+    margin-right: 0.03125rem;
+}
+
+.stugrowanddev .left .leftSmallCard .title[data-v-123fef85] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: end;
+    -webkit-align-items: flex-end;
+    align-items: flex-end;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    border-bottom: 0.00521rem solid #63aeea;
+    padding: 0.04167rem 0;
+    font-size: 0.09375rem;
+}
+
+.stugrowanddev .left .leftSmallCard .title span[data-v-123fef85] {
+    font-weight: bold;
+}
+
+.stugrowanddev .left .leftSmallCard .title img[data-v-123fef85] {
+    margin-right: 0.02083rem;
+}
+
+.stugrowanddev .right[data-v-123fef85] {
+    width: 43.2%;
+}
+
+.stugrowanddev .right .rightBigCard[data-v-123fef85] {
+    height: 4.08854rem;
+    background-color: #42486c;
+    padding: 0 0.15625rem;
+    position: relative;
+}
+
+.stugrowanddev .right .rightBigCard .title[data-v-123fef85] {
+    color: #fff;
+    position: relative;
+    z-index: 5;
+    width: 2.60417rem;
+    font-size: 0.13021rem;
+    text-align: center;
+    margin: 0 auto;
+    line-height: 0.3125rem;
+}
+
+.stugrowanddev .right .rightBigCard .title img[data-v-123fef85] {
+    position: absolute;
+    z-index: -1;
+    left: 0;
+    width: 100%;
+}
+
+.stugrowanddev .right .rightBigCard .gradeName[data-v-123fef85] {
+    margin-top: 0.20833rem;
+    position: relative;
+    z-index: 2;
+}
+
+.stugrowanddev .right .rightBigCard .gradeName span[data-v-123fef85] {
+    margin-left: 0.10417rem;
+    text-align: right;
+    color: #8a8dae;
+    font-size: 0.10417rem;
+}
+
+.stugrowanddev .right .rightBigCard .chartContent[data-v-123fef85] {
+    height: 3.02083rem;
+    margin-top: 0.20833rem;
+    position: relative;
+    z-index: 2;
+    width: 3.89583rem;
+}
+
+.stugrowanddev .right .rightBigCard .subjectSel[data-v-123fef85] {
+    position: absolute;
+    top: 0.96354rem;
+    right: 0.3125rem;
+    z-index: 2;
+}
+
+.stugrowanddev .right .rightBigCard .subjectSel .subjectSelBotton[data-v-123fef85] {
+    background-color: #24da83;
+    color: #fff;
+    font-size: 0.10417rem;
+    padding: 0.02604rem 0.05208rem;
+    border-radius: 0.04167rem;
+}
+
+.stugrowanddev .right .rightBigCard .subjectSel .subjectSelBotton i[data-v-123fef85] {
+    margin-left: 0.05208rem;
+}
+
+.stugrowanddev .isActivity[data-v-123fef85] {
+    color: #fff;
+    border-bottom: 0.01042rem solid #fff;
+}
+
+.stugrowanddev[data-v-123fef85] .el-carousel__button {
+    width: 0.05208rem;
+    height: 0.05208rem;
+    background-color: #fff;
+    border-radius: 50%;
+}
+
+.statxt[data-v-123fef85] {
+    font-size: 0.09375rem;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+.statxt_img[data-v-123fef85] {
+    width: 0.07292rem !important;
+    height: 0.07292rem !important;
+    margin-left: 0.04167rem !important;
+}
+
+.statxt span[data-v-123fef85] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    margin-left: 0.08333rem;
+}

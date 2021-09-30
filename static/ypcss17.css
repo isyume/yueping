@@ -1,0 +1,26 @@
+.home[data-v-fae5bece] {
+    width: 100vw;
+    height: 100vh;
+}
+
+.bottomlogo[data-v-fae5bece] {
+    position: fixed;
+    bottom: 0.01563rem;
+    right: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+.screen_logo[data-v-fae5bece] {
+    height: 0.15625rem;
+    margin-right: 0.05208rem;
+}
+
+.screen_title[data-v-fae5bece] {
+    height: 0.10417rem;
+    margin-right: 0.05208rem;
+}

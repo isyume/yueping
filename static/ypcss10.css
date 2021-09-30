@@ -1,0 +1,26 @@
+            .areaschoolIinfo .el-tabs__nav-wrap::after {
+                background-color: transparent;
+            }
+
+            .areaschoolIinfo .el-radio-button__inner {
+                color: #fff;
+                background-color: transparent;
+                border: none;
+                border-radius: 0.26042rem !important;
+                padding: 0.02604rem 0.10417rem;
+                font-size: 0.09375rem;
+            }
+
+            .areaschoolIinfo .el-tabs__header {
+                height: 0;
+            }
+
+            .areaschoolIinfo .el-tab-pane {
+                height: 0.9375rem;
+                padding-right: 0.05208rem;
+            }
+
+            .areaschoolIinfo .table .el-carousel__container,
+            .areaschoolIinfo .table .el-carousel--horizontal {
+                height: 1.51042rem !important;
+            }
